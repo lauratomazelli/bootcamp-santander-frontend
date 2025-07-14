@@ -20,7 +20,6 @@ Este repositório reúne os projetos, desafios práticos e estudos realizados po
 
 | Projeto | Descrição | Link |
 |--------|-----------|------|
-| **contribuicao-open-source** | Primeira contribuição em um repositório open source no GitHub | [Ver pasta](./contribuicao-open-source) |
 | **site-html-explicativo** | Site explicando HTML, tags e semântica, usando elementos básicos | [Ver pasta](./site-html-explicativo) |
 
 ---
