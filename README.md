@@ -26,6 +26,6 @@ Este repositório reúne os projetos, desafios práticos e estudos realizados po
 
 ## ✨ Sobre mim
 
-Engenheira de QA em formação, apaixonada por qualidade de software, usabilidade e experiência do usuário. Estudando Front-End como complemento da minha formação em testes.  
+QA em formação, apaixonada por qualidade de software, usabilidade e experiência do usuário e estudando Front-End.  
 🔗 [Meu GitHub](https://github.com/lauratomazelli)  
 🔗 [LinkedIn](https://www.linkedin.com/in/lauratomazellidecastro/)
