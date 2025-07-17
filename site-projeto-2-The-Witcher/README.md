@@ -15,15 +15,6 @@ A proposta era criar um site básico com HTML e CSS, simulando um layout temáti
 ---
 
 
-## 🚀 Como visualizar
-
-Você pode acessar o projeto de duas formas:
-
-- 💻 **Via GitHub Pages**: [Acessar site publicado](https://lauratomazelli.github.io/bootcamp-santander-frontend/site-projeto-2-The-Witcher/)
-- 📂 **Ou clonar o repositório e abrir o `index.html` localmente**
-
----
-
 ## ✨ Autoria
 
 Projeto criado por **Laura Tomazelli de Castro**, em julho de 2025.  
