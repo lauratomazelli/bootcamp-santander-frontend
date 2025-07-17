@@ -21,6 +21,7 @@ Este repositório reúne os projetos, desafios práticos e estudos realizados po
 | Projeto | Descrição | Link |
 |--------|-----------|------|
 | **site-html-explicativo** | Site explicando HTML, tags e semântica, usando elementos básicos | [Ver pasta](./site-html-explicativo) |
+| **site-projeto-2-The-Witcher** | Site temático inspirado em *The Witcher*, com prática de HTML e CSS | [Ver pasta](./site-projeto-2-The-Witcher) |
 
 ---
 
